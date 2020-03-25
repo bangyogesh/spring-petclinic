@@ -6,3 +6,6 @@ ports:
 tasks:
 - init: ./mvnw package -DskipTests
   command: java -jar target/*.jar
+vscode:
+  extensions:
+    - microsoft.vscode-maven@0.21.2:myMavenPlugin====
