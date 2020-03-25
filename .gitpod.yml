@@ -9,3 +9,4 @@ tasks:
 vscode:
   extensions:
     - microsoft.vscode-maven@0.21.2:myMavenPlugin====
+    - microsoft.vscode-spring-initializr@0.4.6:mySpringPlugin===
